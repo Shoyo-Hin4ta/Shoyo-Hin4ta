@@ -1,5 +1,11 @@
+# 👋🏻 Hi There, I am Ritik
+
 # 💫 About Me:
-I am a graduate student pursuing computer science at Stevens Institute of Technology.<br>I am passionate about web development and getting to know more technologies.
+I am a graduate student pursuing computer science at Stevens Institute of Technology.<br>I am passionate about web development and learning new technologies.
+
+# 🚀 What I'm up to
+Prepping for my finals along with looking to start a new project.
+Check out my portfolio: https://ritiksingh.framer.website to know more about me.
 
 
 ## 🌐 Socials:
@@ -11,11 +17,5 @@ I am a graduate student pursuing computer science at Stevens Institute of Techno
 ![](https://github-readme-stats.vercel.app/api?username=Shoyo-Hin4ta&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shoyo-Hin4ta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shoyo-Hin4ta&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Shoyo-Hin4ta&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
