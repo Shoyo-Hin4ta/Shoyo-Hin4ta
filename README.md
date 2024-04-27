@@ -4,7 +4,7 @@
 I am a graduate student pursuing computer science at Stevens Institute of Technology.<br>I am passionate about web development and learning new technologies.
 
 # 🚀 What I'm up to
-Prepping for my finals along with looking to start a new project.<br>
+Prepping for my finals and Then I am onto making new projects.<br>
 Check out my portfolio: <a href="https://ritiksingh.framer.website">Portfolio</a> to know more about me.
 
 
