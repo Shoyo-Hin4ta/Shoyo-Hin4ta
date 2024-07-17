@@ -4,7 +4,7 @@
 I am a graduate student pursuing computer science at Stevens Institute of Technology.<br>I am passionate about web development and learning new technologies.
 
 # 🚀 What I'm up to
-Working on a Normalizer, which takes different files as input and can give a csv file output, which then can be used to finetune models
+I am working on my MVP, which helps to simplify subleasing for international students and jobgoers.
 Check out my portfolio: <a href="https://ritiksingh.framer.website">Portfolio</a> to know more about me.
 
 
