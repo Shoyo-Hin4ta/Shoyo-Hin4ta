@@ -4,7 +4,7 @@
 I am a graduate student pursuing computer science at Stevens Institute of Technology.<br>I am passionate about web development and learning new technologies.
 
 # 🚀 What I'm up to
-I am working on my MVP, which helps to simplify subleasing for international students and jobgoers.
+Currently, I am learning more about in-depth RAG Systems.
 Check out my portfolio: <a href="https://ritiksingh.framer.website">Portfolio</a> to know more about me.
 
 
