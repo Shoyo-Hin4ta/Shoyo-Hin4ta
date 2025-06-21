@@ -1,10 +1,10 @@
 # 👋🏻 Hi There, I am Ritik
 
 # 💫 About Me:
-I am a graduate student pursuing computer science at Stevens Institute of Technology.<br>I am passionate about web development and learning new technologies.
+Trying to be a cracked engineer 💪 | Turning ideas into real-world solutions
 
 # 🚀 What I'm up to
-Currently, I am learning more about in-depth RAG Systems.
+Currently interning at Open-Ed, where I am working on the complete frontend. 
 Check out my portfolio: <a href="https://ritiksingh.framer.website">Portfolio</a> to know more about me.
 
 
