@@ -4,7 +4,7 @@
 Trying to be a cracked engineer 💪 | Turning ideas into real-world solutions
 
 # 🚀 What I'm up to
-Currently interning at Open-Ed, where I am working on the complete frontend. 
+Currently interning at a small-stage startup to help them ship their MVP, where I am working on the complete frontend, and I am also shipping new features to an app called Gimmie.
 Check out my portfolio: <a href="https://ritiksingh.framer.website">Portfolio</a> to know more about me.
 
 
