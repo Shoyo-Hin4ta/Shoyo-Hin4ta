@@ -1,7 +1,7 @@
 # 👋🏻 Hi There, I am Ritik
 
 # 💫 About Me:
-Trying to be a cracked engineer 💪 | Turning ideas into real-world solutions
+Turning ideas into real-world solutions. The engineer who can build anything 
 
 # 🚀 What I'm up to
 Currently interning at a small-stage startup to help them ship their MVP, where I am working on the complete frontend, and I am also shipping new features to an app called Gimmie.
